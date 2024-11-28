@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning PHP Python Html5
 - 📫 How to reach me duck1314.gmail.com
-- ⚡ Fun fact: I am a sixth grade primary school student, but I have independently created many websites using php and html5.
+- ⚡ Fun fact:
 
 <!---
 Duck357/Duck357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
