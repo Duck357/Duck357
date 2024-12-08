@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Duck357
-- 👀 I’m interested in WebDev
-- 🌱 I’m currently learning PHP Python Html5
-- 📫 How to reach me duck1314.gmail.com
-- ⚡ Fun fact:
+more me:
+ -- Bilbili: https://space.bilibili.com/3546607922448642
 
 <!---
 Duck357/Duck357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
